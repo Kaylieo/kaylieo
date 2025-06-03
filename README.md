@@ -29,7 +29,7 @@ I enjoy building things that make workflows smarter, decisions clearer, and insi
 
 ## 🧰 Technologies & Tools
 
-- **Languages**: Python, R, SQL, VBA  
+- **Languages**: Python, C#, R, SQL, VBA  
 - **Libraries**: Pandas, NumPy, Plotly, Matplotlib, Seaborn, Statsmodels  
 - **Platforms**: Streamlit, Power Automate Desktop, GitHub, SQLite, Visual Studio  
 - **APIs**: YFinance, SEC EDGAR, CoinGecko  
