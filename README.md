@@ -1,8 +1,12 @@
+<div align="center">
+
 # 👋 Kaylie O'Neal
 
 🎓 Finance Major | 💻 Information Systems Minor  
 🔍 Focus: Financial Modeling • Automation • AI in FinTech  
 📍 University of Arkansas | Research Assistant | AP Intern
+
+</div>
 
 ---
 
@@ -52,4 +56,4 @@ I enjoy building things that make workflows smarter, decisions clearer, and insi
 
 ---
 
-_“I’m driven by curiosity and creativity — building tools that turn complexity into clarity.”_
+<div align="center"><i>“I’m driven by curiosity and creativity — building tools that turn complexity into clarity.”</i></div>
