@@ -52,6 +52,7 @@ I enjoy building things that make workflows smarter, decisions clearer, and insi
 <h2 align="center">📫 Let’s Connect</h2>
 
 - [LinkedIn](https://www.linkedin.com/in/kaylie-oneal-447715293/)  
+- Email: [Kaylieoneal@yahoo.com]
 
 ---
 
