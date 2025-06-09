@@ -57,6 +57,3 @@ I enjoy building things that make workflows smarter, decisions clearer, and insi
 
 <div align="center"><i>“I’m driven by curiosity and creativity — building tools that turn complexity into clarity.”</i></div>
 
----
-
-<div align="center"><i>“I’m driven by curiosity and creativity — building tools that turn complexity into clarity.”</i></div>
