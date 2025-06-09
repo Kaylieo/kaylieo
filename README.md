@@ -2,15 +2,15 @@
 
 # 👋 Kaylie O'Neal
 
-🎓 Finance Major | 💻 Information Systems Minor  
+🎓 Finance Major &nbsp;&nbsp;|&nbsp;&nbsp; 💻 Information Systems Minor  
 🔍 Focus: Financial Modeling • Automation • AI in FinTech  
-📍 University of Arkansas | Research Assistant | AP Intern
+📍 University of Arkansas &nbsp;&nbsp;|&nbsp;&nbsp; Research Assistant • AP Intern
 
 </div>
 
 ---
 
-## 🧠 About Me
+<h2 align="center">🧠 About Me</h2>
 
 I'm passionate about solving complex financial problems with data-driven tools and intelligent systems. My work bridges the gap between finance and technology — from automating accounts payable processes with Power Automate Desktop to simulating market risk in Python using Monte Carlo methods.
 
@@ -18,7 +18,7 @@ I enjoy building things that make workflows smarter, decisions clearer, and insi
 
 ---
 
-## ⚙️ Current Projects
+<h2 align="center">⚙️ Current Projects</h2>
 
 - **Crypto Portfolio Optimization Tool**  
   Streamlit app using Modern Portfolio Theory and real-time crypto data (CoinGecko/YFinance), integrated with SQLite for persistent storage. Includes optimization modes (Max Sharpe, Min Volatility), historical returns visualization, and fallback logic for data retrieval.
@@ -31,7 +31,7 @@ I enjoy building things that make workflows smarter, decisions clearer, and insi
 
 ---
 
-## 🧰 Technologies & Tools
+<h2 align="center">🧰 Technologies & Tools</h2>
 
 - **Languages**: Python, C#, R, SQL, VBA  
 - **Libraries**: Pandas, NumPy, Plotly, Matplotlib, Seaborn, Statsmodels  
@@ -41,7 +41,7 @@ I enjoy building things that make workflows smarter, decisions clearer, and insi
 
 ---
 
-## 🔬 Research & Leadership
+<h2 align="center">🔬 Research & Leadership</h2>
 
 - **Research Assistant** – GPU-powered ML models for financial analysis (e.g., MSGARCH) under Dr. Zhang  
 - **Treasurer** – Arkansas AI Foundry  
@@ -49,10 +49,14 @@ I enjoy building things that make workflows smarter, decisions clearer, and insi
 
 ---
 
-## 📫 Let’s Connect
+<h2 align="center">📫 Let’s Connect</h2>
 
 - [LinkedIn](https://www.linkedin.com/in/kaylie-oneal-447715293/)  
 - [GitHub](https://github.com/Kaylieo)
+
+---
+
+<div align="center"><i>“I’m driven by curiosity and creativity — building tools that turn complexity into clarity.”</i></div>
 
 ---
 
