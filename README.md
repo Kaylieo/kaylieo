@@ -33,11 +33,11 @@ I enjoy building things that make workflows smarter, decisions clearer, and insi
 
 <h2 align="center">🧰 Technologies & Tools</h2>
 
-- **Languages**: Python, C#, R, SQL, VBA  
+- **Languages**: Python, C#, R, SQL, WDL  
 - **Libraries**: Pandas, NumPy, Plotly, Matplotlib, Seaborn, Statsmodels  
 - **Platforms**: Streamlit, Power Automate Desktop, GitHub, SQLite, Visual Studio  
 - **APIs**: YFinance, SEC EDGAR, CoinGecko  
-- **Other**: Jupyter, Conda, Excel, Workday
+- **Other**: Jupyter, Conda, Excel, Workday, Sage 100
 
 ---
 
